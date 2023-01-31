@@ -1,0 +1,124 @@
+#encabezado {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align:center;
+}
+
+h1 {
+    text-align:center;
+}
+
+.navbar {
+    float:left;
+    width:100%;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgb(160, 160, 160);
+    border-top: 1px solid rgb(160, 160, 160);
+
+}
+
+.navbar ul {
+    position:left;
+    margin: 10px;
+    padding:0;
+    list-style:none;
+}
+
+.navbar li {
+    float:left;
+    margin-left:20%;
+    padding:0;
+}
+
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+#loremMark {
+    background-color:lightgrey;
+}
+
+.cuerpo {
+    margin: 25px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#spanSpecial {
+    color: rgb(116, 218, 204);
+}
+
+form {
+    display: grid;
+}
+
+label {
+    margin: 15px;
+}
+
+input {
+    float:right;
+    width: 30%;
+}
+
+.col1 {
+    float:left;
+    width: 50%;
+}
+
+.col2 {
+    float:right;
+    width: 50%;
+}
+
+
+#tabla, td, th {
+    border: 1px solid black;
+    padding: 10px;
+    font-family: 'open sans', sans-serif;
+}
+
+.contenedor {
+    display: grid;
+    background-color: #f4d3f5;
+    width:100%;
+}
+
+body {
+    position:relative;
+}
+
+#derechos {
+    width:50%;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+
+#links {
+    width:50%;
+    margin-left:10%;
+    margin-right: 5%;
+    margin-bottom: 40px;
+}
+
+
+#links {
+    margin-right: 25%;
+    margin-bottom: 25px;
+}
+
+#derechos {
+    margin-left: 25%;
+    margin-top: 30px;
+}
+
+h3 {
+    text-align:left;
+}
+
+#facebook {
+    float:right;
+}
