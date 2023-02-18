@@ -82,37 +82,37 @@ input {
 }
 
 .contenedor {
-    display: grid;
+    display: flex;
     background-color: #f4d3f5;
     width:100%;
+    flex-direction:row;
 }
 
 body {
     position:relative;
 }
 
+/*
 #derechos {
     width:50%;
     margin-left: 10%;
     margin-top: 20px;
 }
-
+*/
 #links {
     width:50%;
-    margin-left:10%;
-    margin-right: 5%;
-    margin-bottom: 40px;
+    margin:5%;
 }
 
-
+/*
 #links {
     margin-right: 25%;
     margin-bottom: 25px;
 }
-
+*/
 #derechos {
-    margin-left: 25%;
-    margin-top: 30px;
+    margin: 5%;
+    width:50%;
 }
 
 h3 {
